@@ -1,0 +1,6 @@
+Step By Step Explanation of the working of this model.
+
+1.'cat vs dog ML' file has the source code.
+2.'ML_dogcat.h5' has the model saved and it is in the script so you just need to run the line to get it done and download it from the colab or any notebook.
+3.'ML_dogandcat' has the streamlit script for the interface.
+4.You just need to place these files in a folder and run the streamlit script( install streamlit in the anaconda cmd prompt first ) then run command ( streamlit run ML_dogandcat ) this shall open the webpage for dropping images to predict results.
